@@ -1,0 +1,101 @@
+App,Category,Rating,Reviews,Size,Installs,Type,Price,Content Rating,Genres,Last Updated,Current Ver,Android Ver
+App 1,FAMILY,4.9,853089,55M,"500,000+",Paid,0,Everyone,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 2,LIFESTYLE,3.4,830461,40M,"100,000+",Paid,$0.99,Teen,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 3,FAMILY,1.9,850917,15M,"10,000+",Paid,$9.99,Everyone,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 4,LIFESTYLE,1.4,32155,21M,"10,000+",Paid,$0.99,Everyone,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 5,MEDICAL,1.6,213943,47M,"5,000,000+",Paid,$9.99,Teen,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 6,MEDICAL,2.0,264481,73M,"5,000,000+",Paid,0,Everyone,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 7,MEDICAL,1.6,365822,53M,"100,000+",Paid,$0.99,Everyone,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 8,MEDICAL,1.7,854212,9M,"10,000+",Free,0,Mature 17+,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 9,ART_AND_DESIGN,2.1,281174,74M,"100,000+",Free,$9.99,Everyone,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 10,MEDICAL,2.1,845634,52M,"5,000,000+",Free,$4.99,Teen,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 11,BOOKS_AND_REFERENCE,4.6,32266,57M,"5,000,000+",Free,$4.99,Teen,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 12,BOOKS_AND_REFERENCE,1.3,365061,26M,"10,000+",Paid,$0.99,Everyone,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 13,ART_AND_DESIGN,3.1,243323,41M,"50,000,000+",Free,0,Mature 17+,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 14,MEDICAL,2.6,174945,35M,"500,000+",Paid,0,Mature 17+,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 15,MEDICAL,4.9,570486,63M,"5,000,000+",Free,$0.99,Everyone,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 16,MEDICAL,1.4,912166,25M,"5,000,000+",Free,$4.99,Everyone,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 17,LIFESTYLE,2.6,448397,90M,"50,000,000+",Free,$9.99,Teen,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 18,FAMILY,4.9,154783,75M,"50,000,000+",Paid,$0.99,Everyone,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 19,LIFESTYLE,4.5,684847,38M,"100,000+",Free,$9.99,Mature 17+,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 20,FAMILY,4.3,71908,2M,"100,000+",Paid,$4.99,Everyone,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 21,MEDICAL,2.0,915309,7M,"500,000+",Paid,0,Teen,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 22,MEDICAL,1.7,202968,82M,"500,000+",Free,$4.99,Teen,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 23,LIFESTYLE,1.7,850868,91M,"10,000+",Free,$0.99,Teen,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 24,LIFESTYLE,4.7,302776,34M,"100,000+",Free,0,Teen,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 25,FAMILY,3.2,391183,91M,"5,000,000+",Paid,$0.99,Teen,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 26,BOOKS_AND_REFERENCE,3.3,756893,17M,"100,000+",Free,$0.99,Everyone,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 27,FAMILY,2.1,282248,43M,"5,000,000+",Paid,$4.99,Everyone,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 28,LIFESTYLE,4.1,64773,59M,"50,000,000+",Paid,$0.99,Everyone,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 29,LIFESTYLE,1.7,126109,51M,"100,000+",Free,$4.99,Everyone,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 30,ART_AND_DESIGN,1.7,14383,54M,"50,000,000+",Free,0,Teen,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 31,LIFESTYLE,2.7,84292,24M,"500,000+",Paid,$4.99,Mature 17+,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 32,ART_AND_DESIGN,3.0,363340,25M,"500,000+",Paid,0,Everyone,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 33,BOOKS_AND_REFERENCE,2.0,659117,71M,"10,000+",Paid,$4.99,Mature 17+,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 34,FAMILY,1.5,282754,52M,"100,000+",Free,$9.99,Everyone,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 35,FAMILY,3.4,147551,70M,"50,000,000+",Paid,$9.99,Everyone,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 36,ART_AND_DESIGN,2.2,232051,88M,"5,000,000+",Free,$0.99,Mature 17+,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 37,FAMILY,3.3,432883,33M,"500,000+",Paid,$4.99,Teen,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 38,LIFESTYLE,1.6,337828,49M,"500,000+",Paid,$4.99,Everyone,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 39,MEDICAL,2.9,492314,29M,"5,000,000+",Free,0,Everyone,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 40,ART_AND_DESIGN,3.1,386859,63M,"50,000,000+",Paid,$0.99,Everyone,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 41,FAMILY,1.2,654619,22M,"50,000,000+",Free,$4.99,Mature 17+,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 42,ART_AND_DESIGN,2.3,595604,26M,"100,000+",Free,$0.99,Teen,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 43,ART_AND_DESIGN,1.5,864267,28M,"100,000+",Paid,$9.99,Mature 17+,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 44,MEDICAL,1.3,388350,85M,"10,000+",Free,$4.99,Mature 17+,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 45,LIFESTYLE,1.3,14154,49M,"500,000+",Free,$4.99,Teen,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 46,ART_AND_DESIGN,2.3,600614,71M,"100,000+",Paid,$0.99,Mature 17+,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 47,FAMILY,4.2,240774,81M,"50,000,000+",Free,$4.99,Teen,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 48,BOOKS_AND_REFERENCE,2.0,930504,84M,"5,000,000+",Free,$0.99,Everyone,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 49,ART_AND_DESIGN,3.7,55319,49M,"50,000,000+",Free,$4.99,Teen,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 50,ART_AND_DESIGN,4.0,394031,20M,"500,000+",Paid,0,Everyone,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 51,MEDICAL,3.4,377178,86M,"50,000,000+",Free,$0.99,Mature 17+,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 52,LIFESTYLE,2.9,76078,92M,"10,000+",Paid,$4.99,Mature 17+,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 53,BOOKS_AND_REFERENCE,2.6,876907,63M,"500,000+",Paid,$9.99,Everyone,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 54,FAMILY,2.6,133516,61M,"5,000,000+",Free,$4.99,Mature 17+,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 55,BOOKS_AND_REFERENCE,4.7,993498,49M,"10,000+",Free,$9.99,Teen,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 56,FAMILY,4.3,206989,71M,"500,000+",Free,$9.99,Everyone,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 57,LIFESTYLE,4.9,859752,1M,"5,000,000+",Paid,0,Mature 17+,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 58,FAMILY,1.5,125886,96M,"10,000+",Free,$0.99,Everyone,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 59,MEDICAL,3.9,896210,13M,"10,000+",Free,$4.99,Teen,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 60,MEDICAL,4.8,541657,94M,"500,000+",Free,0,Teen,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 61,MEDICAL,1.7,670689,87M,"100,000+",Free,$4.99,Mature 17+,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 62,MEDICAL,1.7,188015,51M,"10,000+",Free,$9.99,Teen,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 63,BOOKS_AND_REFERENCE,4.0,91752,56M,"10,000+",Paid,$0.99,Everyone,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 64,LIFESTYLE,3.3,230204,83M,"5,000,000+",Paid,$4.99,Teen,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 65,FAMILY,4.4,813739,62M,"50,000,000+",Free,$4.99,Everyone,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 66,FAMILY,1.6,695276,32M,"500,000+",Free,$9.99,Everyone,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 67,MEDICAL,4.2,823652,30M,"500,000+",Free,$4.99,Teen,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 68,MEDICAL,4.2,211952,29M,"100,000+",Free,$4.99,Mature 17+,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 69,ART_AND_DESIGN,1.7,505156,49M,"100,000+",Paid,$9.99,Teen,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 70,LIFESTYLE,1.7,195717,45M,"500,000+",Free,0,Everyone,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 71,BOOKS_AND_REFERENCE,4.3,584568,93M,"100,000+",Paid,$9.99,Everyone,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 72,FAMILY,3.7,315173,30M,"5,000,000+",Paid,0,Teen,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 73,ART_AND_DESIGN,3.1,890696,16M,"500,000+",Free,$0.99,Mature 17+,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 74,ART_AND_DESIGN,2.4,127,40M,"100,000+",Paid,0,Mature 17+,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 75,FAMILY,4.5,838762,19M,"500,000+",Paid,0,Everyone,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 76,BOOKS_AND_REFERENCE,2.6,27633,18M,"50,000,000+",Paid,$0.99,Everyone,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 77,ART_AND_DESIGN,4.3,500316,1M,"10,000+",Paid,0,Mature 17+,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 78,ART_AND_DESIGN,2.8,720671,78M,"500,000+",Free,$9.99,Teen,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 79,LIFESTYLE,2.5,109946,47M,"10,000+",Free,0,Everyone,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 80,BOOKS_AND_REFERENCE,2.9,317321,66M,"100,000+",Paid,$0.99,Everyone,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 81,ART_AND_DESIGN,2.2,250870,92M,"10,000+",Free,$9.99,Mature 17+,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 82,BOOKS_AND_REFERENCE,4.0,741427,94M,"500,000+",Free,$0.99,Teen,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 83,FAMILY,3.0,498717,38M,"50,000,000+",Free,$0.99,Mature 17+,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 84,MEDICAL,1.9,175400,51M,"100,000+",Free,$4.99,Teen,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 85,ART_AND_DESIGN,4.6,462121,63M,"500,000+",Free,$4.99,Teen,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 86,LIFESTYLE,2.5,134870,4M,"100,000+",Paid,$0.99,Teen,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 87,FAMILY,3.2,178955,1M,"5,000,000+",Free,$0.99,Everyone,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 88,BOOKS_AND_REFERENCE,3.2,669079,8M,"10,000+",Free,$0.99,Mature 17+,Lifestyle,"January 7, 2018",1.0.0,4.0.3 and up
+App 89,FAMILY,3.5,34561,29M,"5,000,000+",Free,$4.99,Mature 17+,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 90,ART_AND_DESIGN,1.5,863022,55M,"500,000+",Free,$4.99,Teen,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 91,BOOKS_AND_REFERENCE,4.8,284261,3M,"50,000,000+",Paid,0,Everyone,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 92,MEDICAL,3.5,953749,32M,"100,000+",Paid,0,Everyone,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 93,FAMILY,2.3,132718,10M,"10,000+",Paid,$0.99,Mature 17+,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 94,ART_AND_DESIGN,1.6,178596,74M,"100,000+",Paid,$9.99,Everyone,Medical,"January 7, 2018",1.0.0,4.0.3 and up
+App 95,LIFESTYLE,4.2,648374,83M,"500,000+",Free,$9.99,Everyone,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 96,BOOKS_AND_REFERENCE,3.5,379863,34M,"100,000+",Paid,$4.99,Teen,Books & Reference,"January 7, 2018",1.0.0,4.0.3 and up
+App 97,FAMILY,3.1,805689,97M,"10,000+",Free,$4.99,Everyone,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 98,FAMILY,4.6,494593,87M,"500,000+",Free,$4.99,Teen,Education,"January 7, 2018",1.0.0,4.0.3 and up
+App 99,MEDICAL,4.6,100159,55M,"100,000+",Free,$0.99,Mature 17+,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
+App 100,MEDICAL,1.6,708534,92M,"50,000,000+",Free,$9.99,Everyone,Education,"January 7, 2018",1.0.0,4.0.3 and up
